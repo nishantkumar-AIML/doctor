@@ -1,0 +1,77 @@
+// filepath: /Users/nishantkumar/Desktop/NkCodeX_Code/frontend/bankopek.html
+{% extends "layout.html" %}
+{% block content %}
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Bankopek - Run Validation & Status</h4>
+      <p id="status-text">Checking report status...</p>
+
+      <div class="mb-3">
+        <button id="run-btn" class="btn btn-success">Run Validation</button>
+        <button id="refresh-btn" class="btn btn-secondary">Refresh Status</button>
+      </div>
+
+      <div id="last-info" class="small text-muted mb-2"></div>
+
+      <pre id="output" style="max-height:300px; overflow:auto; display:none;"></pre>
+    </div>
+  </div>
+{% endblock %}// filepath: /Users/nishantkumar/Desktop/NkCodeX_Code/frontend/static/js/bankopek.js
+// lightweight front-end logic for bankopek UI
+async function fetchStatus() {
+  try {
+    const res = await fetch('/bankopek/status');
+    const j = await res.json();
+    const st = document.getElementById('status-text');
+    if (!j.exists) {
+      st.textContent = 'No validation report found.';
+    } else {
+      const d = new Date((j.mtime || 0) * 1000);
+      st.textContent = `Report exists — rows: ${j.rows || 0}, mtime: ${j.mtime ? d.toLocaleString() : 'n/a'}`;
+    }
+    document.getElementById('last-info').textContent = j.error ? `Error: ${j.error}` : '';
+  } catch (e) {
+    document.getElementById('status-text').textContent = 'Status check failed.';
+    document.getElementById('last-info').textContent = e.toString();
+  }
+}
+
+async function runValidation() {
+  const btn = document.getElementById('run-btn');
+  btn.disabled = true;
+  btn.textContent = 'Running...';
+  const out = document.getElementById('output');
+  out.style.display = 'block';
+  out.textContent = 'Starting validation...\n';
+  try {
+    const res = await fetch('/bankopek/revalidate', { method: 'POST' });
+    const j = await res.json();
+    out.textContent += JSON.stringify(j, null, 2);
+    if (j.success) await fetchStatus();
+  } catch (e) {
+    out.textContent += 'Error: ' + e;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Run Validation';
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  const runBtn = document.getElementById('run-btn');
+  const refreshBtn = document.getElementById('refresh-btn');
+  if (runBtn) runBtn.addEventListener('click', runValidation);
+  if (refreshBtn) refreshBtn.addEventListener('click', fetchStatus);
+  fetchStatus();
+});// filepath: /Users/nishantkumar/Desktop/NkCodeX_Code/frontend/static/css/bankopek.css
+/* simple styles for bankopek UI */
+#output {
+  background: #f8f9fa;
+  border: 1px solid #e4e6e8;
+  padding: 12px;
+  font-family: Menlo, Monaco, monospace;
+  font-size: 13px;
+}// filepath: /Users/nishantkumar/Desktop/NkCodeX_Code/app.py
+# ...existing code...
+- app = Flask(__name__, template_folder=str(BASE_DIR / "templates"))
++ app = Flask(__name__, template_folder=str(BASE_DIR / "frontend"), static_folder=str(BASE_DIR / "frontend" / "static"))
+# ...existing code...

@@ -1,0 +1,19 @@
+// filepath: /Users/nishantkumar/Desktop/NkCodeX_Code/frontend/index.html
+{% extends "layout.html" %}
+{% block content %}
+  <div class="mb-3">
+    <a href="{{ url_for('revalidate') }}" class="btn btn-primary">Re-run Validation</a>
+    <a href="{{ url_for('download') }}" class="btn btn-secondary">Download CSV</a>
+    <a href="{{ url_for('bankopek_ui') }}" class="btn btn-info">Open Bankopek UI</a>
+  </div>
+
+  {% if missing %}
+    <div class="alert alert-warning">Validation report <strong>{{ report_name }}</strong> not found. Run validator to create it.</div>
+  {% else %}
+    {% if table_html %}
+      <div class="table-responsive">{{ table_html | safe }}</div>
+    {% else %}
+      <div class="alert alert-info">No data to display.</div>
+    {% endif %}
+  {% endif %}
+{% endblock %}

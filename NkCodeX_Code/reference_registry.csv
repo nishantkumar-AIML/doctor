@@ -1,0 +1,201 @@
+provider_id,name,phone,address,city,speciality,license
+P0001,Dr. Rahul A.,913321819603,"527 MG Road, Kolkata",Kolkata,Dermatology,LIC-88907
+P0002,Dr. Amit R.,918637940265,"230 MG Road, Bengaluru",Bengaluru,ENT,LIC-54118
+P0003,Dr. Rahul C.,915594078161,"859 MG Road, Mumbai",Mumbai,Cardiology,LIC-92397
+P0004,Dr. Anoop L.,911034131647,"383 MG Road, Delhi",Delhi,Orthopedics,LIC-31319
+P0005,Dr. Rakesh L.,914192832764,"665 MG Road, Bengaluru",Bengaluru,ENT,LIC-83000
+P0006,Dr. Priya V.,910305641395,"521 MG Road, Chennai",Chennai,Neurology,LIC-61856
+P0007,Dr. Parakh E.,913884969653,"151 Main St, Chennai",Chennai,Orthopedics,LIC-76784
+P0008,Dr. Parakh C.,911226916697,"576 MG Road, Hyderabad",Hyderabad,Cardiology,LIC-11504
+P0009,Dr. Rahul V.,914514627048,"529 MG Road, Delhi",Delhi,Neurology,LIC-23947
+P0010,Dr. Anita U.,913252880955,"909 MG Road, Delhi",Delhi,General Surgery,LIC-50306
+P0011,Dr. Priya B.,911171822782,"903 MG Road, Bengaluru",Bengaluru,General Surgery,LIC-89507
+P0012,Dr. Neha G.,913465787130,"612 MG Road, Delhi",Delhi,Neurology,LIC-82603
+P0013,Dr. Priya S.,911031051834,"229 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-80678
+P0014,Dr. Suman X.,917376311656,"894 Main St, Delhi",Delhi,General Surgery,LIC-17100
+P0015,Dr. Rahul B.,915133387262,"265 Main St, Mumbai",Mumbai,ENT,LIC-19880
+P0016,Dr. Parakh Z.,918108013267,"895 MG Road, Hyderabad",Hyderabad,Neurology,LIC-62565
+P0017,Dr. Amit F.,916474687234,"69 MG Road, Mumbai",Mumbai,Cardiology,LIC-85914
+P0018,Dr. Nishant B.,910097882081,"80 MG Road, Kolkata",Kolkata,Dermatology,LIC-87992
+P0019,Dr. Rahul V.,916193990916,"588 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-78522
+P0020,Dr. Rakesh I.,915346247510,"586 Main St, Bengaluru",Bengaluru,ENT,LIC-23104
+P0021,Dr. Rahul R.,914251354278,"636 Main St, Bengaluru",Bengaluru,General Surgery,LIC-95717
+P0022,Dr. Nishant A.,918412411824,"225 MG Road, Kolkata",Kolkata,Neurology,LIC-54942
+P0023,Dr. Priya V.,914874016400,"143 MG Road, Kolkata",Kolkata,Neurology,LIC-93507
+P0024,Dr. Anita F.,918680112805,"161 MG Road, Kolkata",Kolkata,Pediatrics,LIC-66333
+P0025,Dr. Suman B.,910533158692,"252 MG Road, Chennai",Chennai,Dermatology,LIC-31299
+P0026,Dr. Suman N.,915634216073,"950 MG Road, Patna",Patna,Orthopedics,LIC-70332
+P0027,Dr. Rakesh J.,913303654145,"419 MG Road, Hyderabad",Hyderabad,Neurology,LIC-99065
+P0028,Dr. Nishant K.,911832856914,"533 MG Road, Patna",Patna,Cardiology,LIC-25157
+P0029,Dr. Neha S.,910608835615,"689 MG Road, Bengaluru",Bengaluru,Dermatology,LIC-26334
+P0030,Dr. Anita Q.,911617990421,"318 Main St, Chennai",Chennai,ENT,LIC-63225
+P0031,Dr. Nishant A.,913699577738,"932 Main St, Chennai",Chennai,Dermatology,LIC-32241
+P0032,Dr. Rahul J.,919513433200,"496 MG Road, Delhi",Delhi,ENT,LIC-90120
+P0033,Dr. Rahul O.,919367632016,"833 MG Road, Mumbai",Mumbai,ENT,LIC-77889
+P0034,Dr. Parakh B.,911727889579,"923 MG Road, Delhi",Delhi,Orthopedics,LIC-76162
+P0035,Dr. Neha R.,917743487344,"250 MG Road, Mumbai",Mumbai,Orthopedics,LIC-45614
+P0036,Dr. Rakesh K.,912236231665,"435 MG Road, Delhi",Delhi,Cardiology,LIC-18161
+P0037,Dr. Priya N.,919096705466,"762 MG Road, Mumbai",Mumbai,Neurology,LIC-81582
+P0038,Dr. Anoop H.,914670656272,"556 MG Road, Mumbai",Mumbai,Orthopedics,LIC-13534
+P0039,Dr. Neha S.,910162720465,"344 MG Road, Delhi",Delhi,ENT,LIC-54236
+P0040,Dr. Neha I.,916417080531,"677 MG Road, Hyderabad",Hyderabad,Neurology,LIC-15276
+P0041,Dr. Amit H.,910923271937,"795 Main St, Bengaluru",Bengaluru,Neurology,LIC-58351
+P0042,Dr. Suman T.,911241904966,"213 MG Road, Delhi",Delhi,ENT,LIC-19961
+P0043,Dr. Anoop W.,913149190586,"80 MG Road, Hyderabad",Hyderabad,ENT,LIC-76317
+P0044,Dr. Rakesh A.,917165726284,"951 MG Road, Hyderabad",Hyderabad,Pediatrics,LIC-80539
+P0045,Dr. Parakh O.,918000307562,"398 MG Road, Mumbai",Mumbai,Neurology,LIC-54092
+P0046,Dr. Amit P.,912735454943,"97 Main St, Hyderabad",Hyderabad,Dermatology,LIC-41635
+P0047,Dr. Neha P.,913777014363,"605 MG Road, Delhi",Delhi,Neurology,LIC-58368
+P0048,Dr. Parakh R.,916855744431,"333 MG Road, Delhi",Delhi,Dermatology,LIC-25670
+P0049,Dr. Nishant Y.,913374989413,"379 MG Road, Kolkata",Kolkata,Orthopedics,LIC-33519
+P0050,Dr. Anita A.,912400842710,"490 MG Road, Kolkata",Kolkata,General Surgery,LIC-72746
+P0051,Dr. Parakh K.,914711671909,"981 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-49824
+P0052,Dr. Rahul H.,916999386774,"449 Main St, Patna",Patna,General Surgery,LIC-50026
+P0053,Dr. Anoop T.,911334123281,"428 MG Road, Patna",Patna,General Surgery,LIC-69048
+P0054,Dr. Anoop P.,916174451870,"673 MG Road, Chennai",Chennai,Cardiology,LIC-29528
+P0055,Dr. Anita E.,912499471746,"522 MG Road, Patna",Patna,Cardiology,LIC-80776
+P0056,Dr. Parakh O.,910659401399,"793 MG Road, Patna",Patna,General Surgery,LIC-98117
+P0057,Dr. Anita S.,912787429671,"428 MG Road, Patna",Patna,Neurology,LIC-53687
+P0058,Dr. Rakesh V.,912567468071,"341 MG Road, Patna",Patna,Neurology,LIC-25194
+P0059,Dr. Neha Q.,918760385977,"218 MG Road, Hyderabad",Hyderabad,Cardiology,LIC-45003
+P0060,Dr. Nishant E.,917109324808,"240 MG Road, Chennai",Chennai,Pediatrics,LIC-24871
+P0061,Dr. Parakh D.,912748467737,"402 Main St, Kolkata",Kolkata,Neurology,LIC-34983
+P0062,Dr. Anoop Q.,911465840449,"685 MG Road, Kolkata",Kolkata,Orthopedics,LIC-74178
+P0063,Dr. Suman O.,915588675339,"886 Main St, Delhi",Delhi,Pediatrics,LIC-63841
+P0064,Dr. Amit K.,916627028951,"460 MG Road, Kolkata",Kolkata,Pediatrics,LIC-23069
+P0065,Dr. Nishant O.,912621745961,"882 MG Road, Patna",Patna,ENT,LIC-98389
+P0066,Dr. Nishant M.,917809134316,"788 MG Road, Chennai",Chennai,ENT,LIC-93066
+P0067,Dr. Rahul O.,914005045562,"431 MG Road, Bengaluru",Bengaluru,ENT,LIC-84177
+P0068,Dr. Suman F.,919693792374,"692 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-11231
+P0069,Dr. Parakh J.,912175946474,"403 MG Road, Kolkata",Kolkata,General Surgery,LIC-73335
+P0070,Dr. Rahul H.,913865719182,"773 MG Road, Mumbai",Mumbai,General Surgery,LIC-75107
+P0071,Dr. Anita Y.,919533942104,"44 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-85965
+P0072,Dr. Rakesh X.,912344565574,"860 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-31567
+P0073,Dr. Anita P.,915171236851,"24 MG Road, Hyderabad",Hyderabad,Dermatology,LIC-44663
+P0074,Dr. Nishant D.,914965137098,"634 MG Road, Mumbai",Mumbai,Dermatology,LIC-39015
+P0075,Dr. Rahul U.,917756185374,"560 MG Road, Hyderabad",Hyderabad,Pediatrics,LIC-27781
+P0076,Dr. Neha O.,918692617965,"232 Main St, Chennai",Chennai,ENT,LIC-68115
+P0077,Dr. Parakh H.,911585064313,"667 MG Road, Hyderabad",Hyderabad,Dermatology,LIC-93819
+P0078,Dr. Anoop A.,915329318393,"248 MG Road, Patna",Patna,Neurology,LIC-53064
+P0079,Dr. Suman Z.,914228421020,"817 MG Road, Delhi",Delhi,Cardiology,LIC-41186
+P0080,Dr. Anoop K.,914026811775,"121 MG Road, Patna",Patna,Orthopedics,LIC-69245
+P0081,Dr. Nishant H.,918470076617,"464 MG Road, Delhi",Delhi,Cardiology,LIC-19632
+P0082,Dr. Rahul K.,914420678831,"527 MG Road, Delhi",Delhi,Orthopedics,LIC-89354
+P0083,Dr. Neha D.,911836736576,"107 MG Road, Hyderabad",Hyderabad,ENT,LIC-50966
+P0084,Dr. Neha K.,913236519941,"579 Main St, Kolkata",Kolkata,Dermatology,LIC-17861
+P0085,Dr. Anoop R.,917215107029,"227 MG Road, Delhi",Delhi,Dermatology,LIC-30280
+P0086,Dr. Parakh H.,915851493689,"668 MG Road, Hyderabad",Hyderabad,Cardiology,LIC-82972
+P0087,Dr. Amit T.,914024455022,"420 MG Road, Kolkata",Kolkata,Neurology,LIC-19120
+P0088,Dr. Suman X.,911836675254,"805 MG Road, Kolkata",Kolkata,Cardiology,LIC-84395
+P0089,Dr. Anoop C.,912901476797,"230 MG Road, Patna",Patna,Orthopedics,LIC-77154
+P0090,Dr. Rahul L.,914978403694,"978 MG Road, Mumbai",Mumbai,Cardiology,LIC-37686
+P0091,Dr. Suman Y.,915107622683,"863 MG Road, Chennai",Chennai,Dermatology,LIC-97562
+P0092,Dr. Rakesh C.,910607159696,"437 MG Road, Mumbai",Mumbai,Neurology,LIC-47947
+P0093,Dr. Rahul M.,912975161369,"90 Main St, Patna",Patna,Dermatology,LIC-61873
+P0094,Dr. Anita X.,915218188355,"848 MG Road, Chennai",Chennai,Orthopedics,LIC-94599
+P0095,Dr. Suman H.,914329212779,"469 MG Road, Patna",Patna,Orthopedics,LIC-99277
+P0096,Dr. Anoop U.,915527177448,"85 MG Road, Kolkata",Kolkata,General Surgery,LIC-50685
+P0097,Dr. Parakh O.,915411998679,"820 Main St, Patna",Patna,Cardiology,LIC-15376
+P0098,Dr. Parakh Z.,913597820715,"96 MG Road, Delhi",Delhi,ENT,LIC-76132
+P0099,Dr. Suman B.,917788925546,"356 MG Road, Bengaluru",Bengaluru,ENT,LIC-98984
+P0100,Dr. Anoop B.,915151864492,"606 MG Road, Hyderabad",Hyderabad,ENT,LIC-96980
+P0101,Dr. Suman L.,916291486526,"530 MG Road, Chennai",Chennai,ENT,LIC-57425
+P0102,Dr. Amit L.,919304078593,"562 MG Road, Chennai",Chennai,Orthopedics,LIC-79013
+P0103,Dr. Amit V.,913480396522,"702 MG Road, Chennai",Chennai,Neurology,LIC-41133
+P0104,Dr. Parakh T.,917383473597,"298 MG Road, Chennai",Chennai,Neurology,LIC-60052
+P0105,Dr. Nishant Q.,913924075818,"301 MG Road, Mumbai",Mumbai,Orthopedics,LIC-20993
+P0106,Dr. Suman I.,912613750606,"251 MG Road, Mumbai",Mumbai,General Surgery,LIC-60615
+P0107,Dr. Rahul L.,915152204727,"15 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-20384
+P0108,Dr. Amit I.,912898614346,"664 MG Road, Bengaluru",Bengaluru,Neurology,LIC-91633
+P0109,Dr. Parakh C.,917980893245,"256 MG Road, Patna",Patna,Neurology,LIC-84798
+P0110,Dr. Neha F.,911851888880,"491 MG Road, Kolkata",Kolkata,ENT,LIC-15706
+P0111,Dr. Neha L.,910393087059,"356 MG Road, Chennai",Chennai,ENT,LIC-94252
+P0112,Dr. Suman Y.,917221704303,"333 MG Road, Kolkata",Kolkata,Pediatrics,LIC-50642
+P0113,Dr. Nishant M.,917403450541,"457 MG Road, Hyderabad",Hyderabad,General Surgery,LIC-62431
+P0114,Dr. Parakh M.,917758416169,"194 Main St, Chennai",Chennai,Orthopedics,LIC-81496
+P0115,Dr. Anita K.,915447962755,"639 MG Road, Patna",Patna,Cardiology,LIC-67008
+P0116,Dr. Anita U.,911658202973,"807 MG Road, Hyderabad",Hyderabad,Cardiology,LIC-94562
+P0117,Dr. Rakesh L.,910927557192,"417 MG Road, Mumbai",Mumbai,General Surgery,LIC-51207
+P0118,Dr. Anita H.,912786814473,"302 MG Road, Patna",Patna,Cardiology,LIC-74382
+P0119,Dr. Priya D.,911727155188,"317 MG Road, Bengaluru",Bengaluru,Neurology,LIC-30644
+P0120,Dr. Suman Z.,913132370589,"832 MG Road, Chennai",Chennai,General Surgery,LIC-82305
+P0121,Dr. Suman T.,914678669125,"470 MG Road, Patna",Patna,Cardiology,LIC-71057
+P0122,Dr. Nishant L.,918922680182,"175 MG Road, Bengaluru",Bengaluru,Neurology,LIC-52291
+P0123,Dr. Priya L.,911438424981,"182 MG Road, Delhi",Delhi,Dermatology,LIC-87569
+P0124,Dr. Anoop E.,919959001094,"795 MG Road, Bengaluru",Bengaluru,ENT,LIC-84991
+P0125,Dr. Neha T.,917844736471,"171 MG Road, Kolkata",Kolkata,Cardiology,LIC-67619
+P0126,Dr. Neha P.,915925556258,"336 MG Road, Mumbai",Mumbai,Orthopedics,LIC-41685
+P0127,Dr. Parakh D.,913210469632,"966 MG Road, Chennai",Chennai,Pediatrics,LIC-85718
+P0128,Dr. Rakesh G.,917877470168,"256 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-38199
+P0129,Dr. Anoop L.,914797480162,"754 MG Road, Patna",Patna,Cardiology,LIC-57943
+P0130,Dr. Neha L.,910983584168,"573 MG Road, Patna",Patna,Pediatrics,LIC-46663
+P0131,Dr. Anoop V.,912165585239,"522 MG Road, Delhi",Delhi,Cardiology,LIC-15276
+P0132,Dr. Amit B.,919593917251,"412 MG Road, Bengaluru",Bengaluru,ENT,LIC-90805
+P0133,Dr. Anita S.,918879470551,"607 MG Road, Chennai",Chennai,General Surgery,LIC-50327
+P0134,Dr. Amit T.,919930972893,"42 Main St, Mumbai",Mumbai,Dermatology,LIC-85047
+P0135,Dr. Rahul G.,915626368970,"541 MG Road, Patna",Patna,Pediatrics,LIC-37176
+P0136,Dr. Nishant K.,918652785854,"206 MG Road, Kolkata",Kolkata,Pediatrics,LIC-42311
+P0137,Dr. Anita R.,914437575848,"398 MG Road, Chennai",Chennai,Orthopedics,LIC-61712
+P0138,Dr. Rakesh Y.,914100676267,"287 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-83664
+P0139,Dr. Anita E.,919330833016,"493 MG Road, Patna",Patna,General Surgery,LIC-23178
+P0140,Dr. Suman A.,916773454019,"766 MG Road, Delhi",Delhi,Orthopedics,LIC-14888
+P0141,Dr. Suman N.,910672400495,"301 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-69552
+P0142,Dr. Nishant Q.,918743152745,"819 MG Road, Mumbai",Mumbai,Orthopedics,LIC-48669
+P0143,Dr. Anoop V.,912966851612,"498 Main St, Hyderabad",Hyderabad,Orthopedics,LIC-52415
+P0144,Dr. Priya A.,914115262181,"73 MG Road, Chennai",Chennai,Pediatrics,LIC-97528
+P0145,Dr. Rahul O.,916841459332,"475 MG Road, Chennai",Chennai,Orthopedics,LIC-89395
+P0146,Dr. Rakesh N.,917833918789,"124 MG Road, Kolkata",Kolkata,General Surgery,LIC-18094
+P0147,Dr. Nishant Q.,918225871398,"466 MG Road, Bengaluru",Bengaluru,General Surgery,LIC-17292
+P0148,Dr. Parakh E.,917908740640,"602 Main St, Delhi",Delhi,Pediatrics,LIC-19572
+P0149,Dr. Amit N.,911801704622,"756 MG Road, Chennai",Chennai,ENT,LIC-94656
+P0150,Dr. Neha L.,916618251286,"755 MG Road, Mumbai",Mumbai,Pediatrics,LIC-39188
+P0151,Dr. Amit Y.,917868633752,"969 MG Road, Patna",Patna,Dermatology,LIC-24790
+P0152,Dr. Amit Z.,919033119079,"903 MG Road, Kolkata",Kolkata,Pediatrics,LIC-16380
+P0153,Dr. Priya X.,916987205061,"622 MG Road, Patna",Patna,Pediatrics,LIC-98150
+P0154,Dr. Rakesh H.,918364408926,"58 MG Road, Chennai",Chennai,Orthopedics,LIC-55143
+P0155,Dr. Neha Z.,916624628733,"734 Main St, Delhi",Delhi,Dermatology,LIC-28920
+P0156,Dr. Parakh B.,916882634351,"877 MG Road, Delhi",Delhi,Pediatrics,LIC-58637
+P0157,Dr. Rahul R.,911467741862,"582 MG Road, Kolkata",Kolkata,Neurology,LIC-38444
+P0158,Dr. Parakh G.,914033173936,"575 MG Road, Hyderabad",Hyderabad,Dermatology,LIC-52154
+P0159,Dr. Anita M.,917743490211,"389 MG Road, Mumbai",Mumbai,General Surgery,LIC-51015
+P0160,Dr. Neha B.,913204899642,"245 MG Road, Delhi",Delhi,Neurology,LIC-59786
+P0161,Dr. Anoop H.,915477725228,"948 MG Road, Mumbai",Mumbai,General Surgery,LIC-81058
+P0162,Dr. Amit Q.,916868793741,"392 MG Road, Patna",Patna,Neurology,LIC-17923
+P0163,Dr. Anoop U.,917700886008,"558 Main St, Kolkata",Kolkata,General Surgery,LIC-47576
+P0164,Dr. Amit Q.,916211823398,"372 MG Road, Hyderabad",Hyderabad,ENT,LIC-45038
+P0165,Dr. Neha C.,917933410166,"497 MG Road, Chennai",Chennai,Pediatrics,LIC-17355
+P0166,Dr. Amit W.,917659180339,"57 MG Road, Bengaluru",Bengaluru,Cardiology,LIC-19744
+P0167,Dr. Anita R.,910250392614,"256 MG Road, Delhi",Delhi,ENT,LIC-84277
+P0168,Dr. Neha V.,916218501631,"797 MG Road, Delhi",Delhi,Dermatology,LIC-90460
+P0169,Dr. Anoop M.,910477358662,"686 Main St, Hyderabad",Hyderabad,Dermatology,LIC-59816
+P0170,Dr. Rahul Y.,916329451168,"975 MG Road, Delhi",Delhi,Dermatology,LIC-50405
+P0171,Dr. Parakh L.,911212678881,"372 MG Road, Hyderabad",Hyderabad,Dermatology,LIC-82642
+P0172,Dr. Rahul T.,915604661839,"711 MG Road, Delhi",Delhi,Neurology,LIC-59903
+P0173,Dr. Suman E.,914721264647,"379 MG Road, Chennai",Chennai,Dermatology,LIC-42990
+P0174,Dr. Priya X.,919937124065,"399 MG Road, Kolkata",Kolkata,Pediatrics,LIC-53193
+P0175,Dr. Parakh K.,919245937526,"308 MG Road, Mumbai",Mumbai,Neurology,LIC-92955
+P0176,Dr. Parakh S.,915646519398,"796 MG Road, Hyderabad",Hyderabad,Orthopedics,LIC-82102
+P0177,Dr. Amit X.,913741672434,"742 MG Road, Mumbai",Mumbai,ENT,LIC-65460
+P0178,Dr. Neha C.,917968868058,"946 MG Road, Mumbai",Mumbai,General Surgery,LIC-21138
+P0179,Dr. Rahul Y.,915290965613,"532 MG Road, Bengaluru",Bengaluru,ENT,LIC-77999
+P0180,Dr. Nishant S.,913756798250,"312 MG Road, Kolkata",Kolkata,General Surgery,LIC-64522
+P0181,Dr. Rahul D.,912545738757,"336 MG Road, Hyderabad",Hyderabad,ENT,LIC-18804
+P0182,Dr. Anita B.,911051238282,"446 Main St, Hyderabad",Hyderabad,ENT,LIC-70562
+P0183,Dr. Priya Z.,912266093796,"731 MG Road, Mumbai",Mumbai,ENT,LIC-38153
+P0184,Dr. Priya I.,911918255371,"893 MG Road, Hyderabad",Hyderabad,ENT,LIC-74157
+P0185,Dr. Nishant U.,915307450544,"732 MG Road, Chennai",Chennai,General Surgery,LIC-48986
+P0186,Dr. Anoop S.,912513412528,"620 MG Road, Patna",Patna,ENT,LIC-28070
+P0187,Dr. Anoop M.,913247546913,"644 MG Road, Mumbai",Mumbai,Orthopedics,LIC-17026
+P0188,Dr. Rakesh A.,913688767677,"588 MG Road, Mumbai",Mumbai,Orthopedics,LIC-14044
+P0189,Dr. Priya J.,913842797881,"284 MG Road, Patna",Patna,Dermatology,LIC-81186
+P0190,Dr. Rakesh R.,910783613407,"892 Main St, Hyderabad",Hyderabad,Neurology,LIC-21401
+P0191,Dr. Parakh D.,913395962923,"834 Main St, Hyderabad",Hyderabad,Neurology,LIC-17780
+P0192,Dr. Anoop L.,919825449486,"950 MG Road, Delhi",Delhi,Dermatology,LIC-17770
+P0193,Dr. Anita U.,912325367294,"394 MG Road, Bengaluru",Bengaluru,ENT,LIC-69243
+P0194,Dr. Rahul U.,911684577590,"877 MG Road, Hyderabad",Hyderabad,Neurology,LIC-22208
+P0195,Dr. Parakh U.,915186363745,"355 MG Road, Kolkata",Kolkata,ENT,LIC-81737
+P0196,Dr. Anoop E.,910705345786,"991 MG Road, Delhi",Delhi,Neurology,LIC-66072
+P0197,Dr. Priya W.,914241541520,"322 Main St, Bengaluru",Bengaluru,ENT,LIC-40689
+P0198,Dr. Neha U.,911037129385,"846 MG Road, Patna",Patna,ENT,LIC-25806
+P0199,Dr. Neha W.,911361115542,"842 MG Road, Bengaluru",Bengaluru,Pediatrics,LIC-27451
+P0200,Dr. Suman C.,910927532697,"98 MG Road, Delhi",Delhi,General Surgery,LIC-23168
